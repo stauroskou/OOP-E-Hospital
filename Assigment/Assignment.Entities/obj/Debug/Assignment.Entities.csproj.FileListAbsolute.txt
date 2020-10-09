@@ -1,0 +1,12 @@
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\bin\Debug\Assignment.Entities.dll
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\bin\Debug\Assignment.Entities.pdb
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.dll
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.pdb
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.csprojAssemblyReference.cache
+C:\Users\Stauroskou\source\repos\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\bin\Debug\Assignment.Entities.dll
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\bin\Debug\Assignment.Entities.pdb
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.csprojAssemblyReference.cache
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.dll
+C:\Users\Stauroskou\Desktop\kk\Assigment\Assignment.Entities\obj\Debug\Assignment.Entities.pdb
